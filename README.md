@@ -1,6 +1,7 @@
 # Factor_Modeling
 
 Questrom school of business, Boston university
+
 Instructor: Chris Kelliher
 
 Factor-based S&P500 index enhansion
